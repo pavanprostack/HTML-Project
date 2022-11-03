@@ -1,0 +1,28 @@
+html{
+    font-size:25px ;
+    width: 100%;
+}
+
+body {
+    color:whitesmoke;
+    background-color: #333;
+}
+
+a{
+    color: rgb(57, 201, 201);
+}
+
+a:hover{
+    color: aqua;
+}
+
+a:active, a:visited{
+    color: beige;
+}
+
+table, tr, th, td, caption{
+    border: 1px solid #eee;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
